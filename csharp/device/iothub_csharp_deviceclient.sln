@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Azure.Devices.Client", "Microsoft.Azure.Devices.Client\Microsoft.Azure.Devices.Client.csproj", "{836B1FB6-70F0-4C7E-AA35-519C2F83AA81}"
 EndProject
@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{72F321D6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{56E8324B-E1D1-4186-8A48-ACBE11DDCFFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceClientAmqpSample", "samples\DeviceClientAmqpSample\DeviceClientAmqpSample.csproj", "{F6DB48E4-F076-4CEA-88CC-EF7FBC869FCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceClientAmqpSampleKSN", "samples\DeviceClientAmqpSample\DeviceClientAmqpSampleKSN.csproj", "{F6DB48E4-F076-4CEA-88CC-EF7FBC869FCA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceClientHttpSample", "samples\DeviceClientHttpSample\DeviceClientHttpSample.csproj", "{FE20A3AC-EFFC-490D-BF99-31EBCA973878}"
 EndProject
